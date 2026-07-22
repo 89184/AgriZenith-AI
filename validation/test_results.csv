@@ -1,0 +1,101 @@
+query,intent,predicted_intent
+How does fertilizer recommendation for crops improve yield?,FR,FR
+Can I rent low cost farm machinery?,M,M
+What is the cost of micronutrient deficiency correction?,FR,FR
+How to schedule irrigation for water requirement for crops?,I,I
+What is the water requirement for irrigation frequency?,I,I
+What insects attack safe pesticide for vegetables?,PC,PC
+How to maintain rotavator vs cultivator?,M,HT
+What are the signs of maturity in crop maturity period?,HT,HT
+Is stem rot a fungal or bacterial disease?,CD,CD
+When is the right time to harvest harvest readiness check?,HT,HT
+Can I use organic fertilizer recommendation for organic farming?,FR,FR
+How to prevent pest infestation in whitefly control?,PC,PC
+Which machine is best for sprayer machine for agriculture?,M,M
+How to treat viral disease in crops in plants?,CD,CD
+Best season for harvesting harvest timing for maize?,HT,HT
+Symptoms of leaf curl disease?,CD,CD
+What disease causes downy mildew?,CD,CD
+Can I rent harvesting machines?,M,M
+What disease causes bacterial infection in plants?,CD,CD
+How many days does harvest timing for rice take to mature?,HT,HT
+How to maintain agricultural equipment?,M,M
+How often should I irrigate irrigation schedule for crops?,I,I
+Is fungal growth on leaves a fungal or bacterial disease?,CD,CD
+Is disease spread in crops a fungal or bacterial disease?,CD,CD
+How to apply soil nutrient management correctly?,FR,FR
+Is nitrogen deficiency solution good for my crop?,FR,FR
+How to prevent root rot?,CD,CD
+How to prevent soil erosion in soil management practices fields?,SM,SM
+Is vascular wilt common in my area?,CD,CD
+What are the uses of tractor for farming?,M,M
+What is the water requirement for how often to water crops?,I,I
+How to identify pest damage on chemical pest control?,PC,PC
+Which machine is best for paddy transplanting machine?,M,M
+What is the cost of drone spraying in agriculture?,M,M
+How to identify pest damage on how to control insects in plants?,PC,PC
+What are the uses of thresher machine?,M,HT
+When is the right time to harvest optimal harvest time?,HT,HT
+What is the best pesticide for pest management in agriculture?,PC,PC
+When is the right time to harvest harvest duration of crops?,HT,HT
+How to prevent soil erosion in soil testing for agriculture fields?,SM,SM
+How do I know if best time to harvest fruits is ready to harvest?,HT,HT
+How to schedule irrigation for over irrigation symptoms?,I,I
+Is the price of grain market rate going up or down?,MP,MP
+What is the ideal harvesting stage for harvest timing for wheat?,HT,HT
+Where can I sell local market price at best price?,MP,MP
+Where can I sell price per quintal at best price?,MP,MP
+What is the current market price of commodity price in mandi?,MP,MP
+How to prevent pest infestation in aphids control?,PC,PC
+What is the best pesticide for pest infestation solution?,PC,PC
+What is the cost of farm tools for farmers?,M,M
+What organic matter is good for best soil for crops?,SM,SM
+How to improve soil health for green manure benefits?,SM,SM
+What is the minimum support price for government crop price?,MP,MP
+Is seedling blight common in my area?,CD,CD
+What is the recommended dose of fertilizer for vegetative growth per acre?,FR,FR
+What is the recommended dose of fertilizer for rice crop per acre?,FR,FR
+What is the water requirement for soil moisture management?,I,I
+How many days does harvest calendar for crops take to mature?,HT,HT
+How do I know if crop harvesting stage is ready to harvest?,HT,HT
+Is farm machinery for sowing suitable for small farms?,M,M
+How to improve soil health for soil preparation for farming?,SM,SM
+What organic matter is good for soil nutrient availability?,SM,SM
+How to test soil for soil conservation methods?,SM,SM
+Can I use best fertilizer for crop growth for organic farming?,FR,FR
+Is the price of minimum support price going up or down?,MP,MP
+How to prevent pest infestation in crop protection from pests?,PC,PC
+Where can I sell price trend of crops at best price?,MP,MP
+What is the cost of npk fertilizer recommendation?,FR,FR
+Is fertilizer for flowering stage good for my crop?,FR,FR
+Best season for harvesting how to know crop is ready to harvest?,HT,HT
+Are there organic ways to protect insecticide recommendation from pests?,PC,PC
+What is the ideal harvesting stage for signs of crop maturity?,HT,HT
+Which irrigation method works best for smart irrigation system?,I,I
+What organic matter is good for soil pH management?,SM,SM
+Is rust disease a fungal or bacterial disease?,CD,CD
+What is the current market price of crop market price today?,MP,MP
+How does fertilizer dose per acre improve yield?,FR,FR
+How to improve soil health for soil fertility improvement?,SM,SM
+How to prevent soil erosion in natural soil improvement techniques fields?,SM,SM
+Can I use drip irrigation for irrigation methods in farming?,I,I
+How to prevent pest infestation in best pesticide for crops?,PC,PC
+Which irrigation method works best for irrigation planning for farms?,I,I
+Where can I sell crop selling price at best price?,MP,MP
+Which irrigation method works best for irrigation during summer season?,I,I
+Best season for harvesting harvest timing for vegetables?,HT,HT
+What is the wholesale rate for today vegetable price today?,MP,MP
+Can I use drip irrigation for drip irrigation system?,I,I
+What is the minimum support price for agriculture market rate?,MP,MP
+How to schedule irrigation for best irrigation method for crops?,I,I
+What is the current market price of wholesale crop price?,MP,MP
+When to apply phosphorus deficiency in plants?,FR,FR
+Is power tiller uses suitable for small farms?,M,M
+How to apply fertilizer planning for farming correctly?,FR,FR
+How to test soil for soil structure improvement?,SM,SM
+How to prevent pest infestation in mites control?,PC,PC
+How often should I irrigate water saving techniques in agriculture?,I,I
+How to prevent plant disease symptoms?,CD,CD
+What to do if I see plant disease diagnosis?,CD,CD
+How to correct soil pH for organic matter in soil?,SM,SM
+How to control pests on integrated pest management?,PC,PC

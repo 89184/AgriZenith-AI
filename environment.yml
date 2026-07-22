@@ -1,0 +1,33 @@
+name: agriboot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  
+  # Heavy scientific/ML packages (optimized via conda)
+  - pytorch
+  - transformers
+  - sentence-transformers
+  - spacy
+  - textblob
+  
+  # Web & utilities
+  - streamlit
+  - python-dotenv
+  - requests
+  - pypdf
+  - pdfplumber
+  
+  # String matching
+  - fuzzywuzzy
+  - python-levenshtein
+  
+  # Install these via pip (not available or outdated on conda-forge)
+  - pip:
+      - pinecone                # Pinecone vector DB client
+      - langchain               # LangChain core
+      - langchain-community     # Community integrations (PDFPlumberLoader etc.)
+      - groq                    # Groq API client
+      - python-dotenv           # For .env loading (backup if conda version fails)
